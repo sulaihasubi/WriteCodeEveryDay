@@ -1,4 +1,5 @@
 # WriteCodeEveryDayChallenge
+[![wakatime](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/6c5e9496-ce75-4852-bd72-7d4cbbf82525.svg)](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/6c5e9496-ce75-4852-bd72-7d4cbbf82525)
 
 > This challenge started on 14:41:50 MYT, Thursday, 9 December 2021 because @sulaihasubi got a habit for coding & learning everyday. She want to prepare herself to be a Lead Data Scientist
 
