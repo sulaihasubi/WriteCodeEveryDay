@@ -1,4 +1,4 @@
-# WriteCodeEveryDay
+# WriteCodeEveryDayChallenge
 
 > This challenge started on 14:41:50 MYT, Thursday, 9 December 2021 because @sulaihasubi got a habit for coding & learning everyday. She want to prepare herself to be a Lead Data Scientist
 
