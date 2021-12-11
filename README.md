@@ -1,4 +1,4 @@
-# WriteCodeEveryDay
+# WriteCodeEveryDay ☕
 [![wakatime](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/6c5e9496-ce75-4852-bd72-7d4cbbf82525.svg)](https://wakatime.com/badge/user/7582c4e3-d09e-4202-8f65-4d19e7c9585e/project/6c5e9496-ce75-4852-bd72-7d4cbbf82525)
 <a href="https://github.com/sulaihasubi/WriteCodeEveryDayChallenge/commits/master">
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/WriteCodeEveryDayChallenge">
